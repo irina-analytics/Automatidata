@@ -16,4 +16,10 @@ import pandas as pd
 import numpy as np
 df = pd.read_csv('2017_Yellow_Taxi_Trip_Data.csv')
 ```
-
+### Task 2b. Understand the data - Inspect the data
+View and inspect summary information about the dataframe by coding the following:
+```python
+df.head(10)
+df.info()
+df.describe()
+```
