@@ -10,8 +10,8 @@ Create a pandas dataframe for data learning, and future exploratory data analysi
 - import pandas as pd. pandas is used for buidling dataframes:
 - import numpy as np. numpy is imported with pandas
 - df = pd.read_csv('Datasets\NYC taxi data.csv')
-'''
+```
 import pandas as pd
 import numpy as np
 df = pd.read_csv('2017_Yellow_Taxi_Trip_Data.csv')
-'''
+```
